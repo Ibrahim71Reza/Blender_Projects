@@ -1,0 +1,14 @@
+# Blender autosaves / caches
+*.blend1
+*.blend2
+*.blend3
+
+# Mantaflow cache
+cache/
+*_cache/
+__pycache__/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
